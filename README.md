@@ -1,7 +1,6 @@
 # Kashyap Merai -@kamerk22
 
-<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> **Hello World!.** I'm a Team Lead and self-taught Full Stack Developer based in Ahmedabad, India. I'm extremely good at resolving technical issues and finding optimal solutions.
-
+<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> **Hello World!.** I'm a Team Lead and self-taught Full Stack Developer based in Ahmedabad, India. I'm extremely good at resolving technical issues and finding optimal solutions. **I have ability to quickly know how and where to start debugging and narrow down what is causing it.**
 
 - ⚙️ I use daily: `.php`, `.js`, `.ts`, `.jsx`, `tsx`, `.html`, `.css`
 - 🌍 I'm mostly active within the **Laravel**, **Cybersecurity** Community
