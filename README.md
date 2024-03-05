@@ -1,15 +1,8 @@
 # Kashyap Merai -@kamerk22
 
-<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> **Hello World!.** I'm a Team Lead and self-taught Full Stack Developer based in Ahmedabad, India. I'm extremely good at resolving technical issues and finding optimal solutions. **I can quickly know how and where to start debugging and narrow down what is causing it.**
-<br/>
+<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> **Hello World!.** I'm a Team Kashyap Merai, a Certified Solution Architect and Public Cloud Specialist with over 7 years in IT. I helped startups in Real Estate, Media Streaming, and On-Demand industries launch successful public cloud projects.
 
-- ⚙️ I use daily: `.php`, `.js`, `.ts`, `.jsx`, `tsx`, `.html`, `.css`
-- 🌍 I'm mostly active within the **Laravel**, **Cybersecurity** Community
-- 💡  I'm Passionate about: **Space 🚀, Science 🔭 and Computers 💻.**
-- 💬 Ping me about: **Web and Laravel development ⛏️, Cloud Technologies (AWS) ☁️, Hacking and Security 🐱‍👤.**
-- ⚡ Fun fact: I prefer **Tea** ☕ over anything and I like to play **PC games** 🎮
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamerk22&hide_langs_below=1)](https://github.com/anuraghazra/github-readme-stats)
+Passionate about 🚀 Space, ✨ Science, and 💻 Computers, I also mentor aspiring cloud engineers, shaping the industry's future.
 
 ### React me out at
  [![linkedin](https://user-images.githubusercontent.com/25087769/87172072-530a5080-c2dc-11ea-8e2c-8ee4dbf3394b.png)](https://www.linkedin.com/in/kamerk22) &nbsp;&nbsp;
