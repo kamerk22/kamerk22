@@ -1,6 +1,6 @@
 # Kashyap Merai -@kamerk22
 
-<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> **Hello World!.** I'm a Team Kashyap Merai, a Certified Solution Architect and Public Cloud Specialist with over 7 years in IT. I helped startups in Real Estate, Media Streaming, and On-Demand industries launch successful public cloud projects.
+<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> **Hello World!.** I'm Kashyap Merai, a Certified Solution Architect and Public Cloud Specialist with over 7 years in IT. I helped startups in Real Estate, Media Streaming, and On-Demand industries launch successful public cloud projects.
 
 Passionate about 🚀 Space, ✨ Science, and 💻 Computers, I also mentor aspiring cloud engineers, shaping the industry's future.
 
